@@ -1,0 +1,18 @@
+{
+  "name": "slack-logger",
+  "version": "1.0.0",
+  "description": "Polls log file and notify slack app when change event occurs.",
+  "main": "./public/index.js",
+  "author": "JaeJun.Lee",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^10.12.18"
+  },
+  "scripts": {
+    "start": "node public/index.js",
+    "build": "tsc -p tsconfig.json"
+  },
+  "dependencies": {
+    "node-fetch": "^2.3.0"
+  }
+}

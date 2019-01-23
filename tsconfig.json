@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "commonjs",
+    "sourceRoot": "./src/",
+    "sourceMap": true,
+    "outDir": "./public/",
+    "lib": [ "es2015" ]
+  }
+}

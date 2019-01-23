@@ -1,0 +1,10 @@
+{
+  "url": "url/to/slack/webhook/api",
+  "logfilePath": "/log/django.log",
+  "backend": "django",
+  "levels": [
+    "ERROR",
+    "DEBUG"
+  ]
+
+}
