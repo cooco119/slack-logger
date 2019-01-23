@@ -1,5 +1,5 @@
 {
-  "url": "https://hooks.slack.com/services/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",
+  "url": "",
   "logfilePath": "/log/django.log",
   "backend": "django",
   "levels": [
