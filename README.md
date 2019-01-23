@@ -6,7 +6,7 @@
 
 - Initial implementaion : for django.
 
-### You should change `logger.config.1.json` to `logger.config.json` to use.
+### - You should change `logger.config.1.json` to `logger.config.json` to use.
   * For security for my own slack app, I made another file `logger.config.1.json` to store my slack api url.
 
 Change this
@@ -23,7 +23,7 @@ let data = fs.readFileSync('./logger.config.json');
 
 ### Install & start
 * Install
-```
+```//color=#acb0b7
 npm install
 ```
 
