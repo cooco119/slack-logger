@@ -5,7 +5,7 @@ You can see your server logs in your slack!
 
 ## Getting Started
 
-You first need to setup slack webhook api in here. [Building Slack Apps]https://api.slack.com/slack-apps
+You first need to setup slack webhook api in here. [Building Slack Apps](https://api.slack.com/slack-apps)
 
 Also, obviously, you need a working server with any logger attached! 
 
@@ -17,8 +17,8 @@ You need
 installed in your environment.
 
 To install these, please refer to each documents.
- * [node.js]https://nodejs.org/en/download/
- * [yarn]https://yarnpkg.com/lang/en/docs/install/#debian-stable
+ * [node.js](https://nodejs.org/en/download/)
+ * [yarn](https://yarnpkg.com/lang/en/docs/install/#debian-stable)
 
 
 ### Install & start
