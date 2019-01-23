@@ -23,7 +23,7 @@ let data = fs.readFileSync('./logger.config.json');
 
 ### Install & start
 * Install
-```//color=#acb0b7
+```color=#acb0b7
 npm install
 ```
 
