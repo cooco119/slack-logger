@@ -12,13 +12,10 @@ Also, obviously, you need a working server with any logger attached!
 ### Prerequisites
 
 You need 
- * nodejs
- * yarn
-installed in your environment.
-
-To install these, please refer to each documents.
  * [node.js](https://nodejs.org/en/download/)
  * [yarn](https://yarnpkg.com/lang/en/docs/install/#debian-stable)
+ 
+installed in your environment.
 
 
 ### Install & start
