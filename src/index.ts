@@ -84,6 +84,7 @@ class slackLogger {
         }
       }
     }
+    await new Promise(resolve => setTimeout(resolve, 10000))
     fs.watch(this.logfilePath, async (event, filename) => {
       if (event === 'change'){
         this.lastModifiedLine = endLine - 1;
